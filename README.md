@@ -1,2 +1,2 @@
 # recipes
-Recipes written in Cooklang markup language
+Recipes written in [Cooklang](https://cooklang.org/) markup language
